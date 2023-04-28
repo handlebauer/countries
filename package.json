@@ -1,5 +1,5 @@
 {
-  "name": "@hbauer/alpha-2-country-codes",
+  "name": "@hbauer/countries",
   "version": "0.0.0",
   "type": "module",
   "exports": {
@@ -15,7 +15,7 @@
   ],
   "author": "Donald Geddes",
   "licence": "MIT",
-  "repository": "https://github.com/handlebauer/alpha-2-country-codes.git",
+  "repository": "https://github.com/handlebauer/countries.git",
   "publishConfig": {
     "access": "public"
   },
