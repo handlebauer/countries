@@ -5,6 +5,7 @@ export const countries = [
     alpha3: 'AFG',
     region: 'Asia',
     subRegion: 'Southern Asia',
+    languages: ['ps', 'uz', 'tk'],
   },
   {
     name: 'Åland Islands',
@@ -12,6 +13,7 @@ export const countries = [
     alpha3: 'ALA',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['sv'],
   },
   {
     name: 'Albania',
@@ -19,6 +21,7 @@ export const countries = [
     alpha3: 'ALB',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['sq'],
   },
   {
     name: 'Algeria',
@@ -26,6 +29,7 @@ export const countries = [
     alpha3: 'DZA',
     region: 'Africa',
     subRegion: 'Northern Africa',
+    languages: ['ar'],
   },
   {
     name: 'American Samoa',
@@ -33,6 +37,7 @@ export const countries = [
     alpha3: 'ASM',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['en', 'sm'],
   },
   {
     name: 'Andorra',
@@ -40,6 +45,7 @@ export const countries = [
     alpha3: 'AND',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['ca'],
   },
   {
     name: 'Angola',
@@ -47,6 +53,7 @@ export const countries = [
     alpha3: 'AGO',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['pt'],
   },
   {
     name: 'Anguilla',
@@ -54,6 +61,7 @@ export const countries = [
     alpha3: 'AIA',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Antarctica',
@@ -61,6 +69,7 @@ export const countries = [
     alpha3: 'ATA',
     region: '',
     subRegion: '',
+    languages: [],
   },
   {
     name: 'Antigua and Barbuda',
@@ -68,6 +77,7 @@ export const countries = [
     alpha3: 'ATG',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Argentina',
@@ -75,6 +85,7 @@ export const countries = [
     alpha3: 'ARG',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es', 'gn'],
   },
   {
     name: 'Armenia',
@@ -82,6 +93,7 @@ export const countries = [
     alpha3: 'ARM',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['hy', 'ru'],
   },
   {
     name: 'Aruba',
@@ -89,6 +101,7 @@ export const countries = [
     alpha3: 'ABW',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['nl', 'pa'],
   },
   {
     name: 'Australia',
@@ -96,6 +109,7 @@ export const countries = [
     alpha3: 'AUS',
     region: 'Oceania',
     subRegion: 'Australia and New Zealand',
+    languages: ['en'],
   },
   {
     name: 'Austria',
@@ -103,6 +117,7 @@ export const countries = [
     alpha3: 'AUT',
     region: 'Europe',
     subRegion: 'Western Europe',
+    languages: ['de'],
   },
   {
     name: 'Azerbaijan',
@@ -110,6 +125,7 @@ export const countries = [
     alpha3: 'AZE',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['az'],
   },
   {
     name: 'Bahamas',
@@ -117,6 +133,7 @@ export const countries = [
     alpha3: 'BHS',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Bahrain',
@@ -124,6 +141,7 @@ export const countries = [
     alpha3: 'BHR',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'Bangladesh',
@@ -131,6 +149,7 @@ export const countries = [
     alpha3: 'BGD',
     region: 'Asia',
     subRegion: 'Southern Asia',
+    languages: ['bn'],
   },
   {
     name: 'Barbados',
@@ -138,6 +157,7 @@ export const countries = [
     alpha3: 'BRB',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Belarus',
@@ -145,6 +165,7 @@ export const countries = [
     alpha3: 'BLR',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['be', 'ru'],
   },
   {
     name: 'Belgium',
@@ -152,6 +173,7 @@ export const countries = [
     alpha3: 'BEL',
     region: 'Europe',
     subRegion: 'Western Europe',
+    languages: ['nl', 'fr', 'de'],
   },
   {
     name: 'Belize',
@@ -159,6 +181,7 @@ export const countries = [
     alpha3: 'BLZ',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en', 'es'],
   },
   {
     name: 'Benin',
@@ -166,6 +189,7 @@ export const countries = [
     alpha3: 'BEN',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Bermuda',
@@ -173,6 +197,7 @@ export const countries = [
     alpha3: 'BMU',
     region: 'Americas',
     subRegion: 'Northern America',
+    languages: ['en'],
   },
   {
     name: 'Bhutan',
@@ -180,6 +205,7 @@ export const countries = [
     alpha3: 'BTN',
     region: 'Asia',
     subRegion: 'Southern Asia',
+    languages: ['dz'],
   },
   {
     name: 'Bolivia (Plurinational State of)',
@@ -187,6 +213,7 @@ export const countries = [
     alpha3: 'BOL',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es', 'ay', 'qu'],
   },
   {
     name: 'Bonaire, Sint Eustatius and Saba',
@@ -194,6 +221,7 @@ export const countries = [
     alpha3: 'BES',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['nl'],
   },
   {
     name: 'Bosnia and Herzegovina',
@@ -201,6 +229,7 @@ export const countries = [
     alpha3: 'BIH',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['bs', 'hr', 'sr'],
   },
   {
     name: 'Botswana',
@@ -208,6 +237,7 @@ export const countries = [
     alpha3: 'BWA',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en', 'tn'],
   },
   {
     name: 'Bouvet Island',
@@ -215,6 +245,7 @@ export const countries = [
     alpha3: 'BVT',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['no', 'nb', 'nn'],
   },
   {
     name: 'Brazil',
@@ -222,6 +253,7 @@ export const countries = [
     alpha3: 'BRA',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['pt'],
   },
   {
     name: 'British Indian Ocean Territory',
@@ -229,6 +261,7 @@ export const countries = [
     alpha3: 'IOT',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Brunei Darussalam',
@@ -236,6 +269,7 @@ export const countries = [
     alpha3: 'BRN',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['ms'],
   },
   {
     name: 'Bulgaria',
@@ -243,6 +277,7 @@ export const countries = [
     alpha3: 'BGR',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['bg'],
   },
   {
     name: 'Burkina Faso',
@@ -250,6 +285,7 @@ export const countries = [
     alpha3: 'BFA',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'ff'],
   },
   {
     name: 'Burundi',
@@ -257,6 +293,7 @@ export const countries = [
     alpha3: 'BDI',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'rn'],
   },
   {
     name: 'Cabo Verde',
@@ -264,6 +301,7 @@ export const countries = [
     alpha3: 'CPV',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['pt'],
   },
   {
     name: 'Cambodia',
@@ -271,6 +309,7 @@ export const countries = [
     alpha3: 'KHM',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['km'],
   },
   {
     name: 'Cameroon',
@@ -278,6 +317,7 @@ export const countries = [
     alpha3: 'CMR',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en', 'fr'],
   },
   {
     name: 'Canada',
@@ -285,6 +325,7 @@ export const countries = [
     alpha3: 'CAN',
     region: 'Americas',
     subRegion: 'Northern America',
+    languages: ['en', 'fr'],
   },
   {
     name: 'Cayman Islands',
@@ -292,6 +333,7 @@ export const countries = [
     alpha3: 'CYM',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Central African Republic',
@@ -299,6 +341,7 @@ export const countries = [
     alpha3: 'CAF',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'sg'],
   },
   {
     name: 'Chad',
@@ -306,6 +349,7 @@ export const countries = [
     alpha3: 'TCD',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'ar'],
   },
   {
     name: 'Chile',
@@ -313,6 +357,7 @@ export const countries = [
     alpha3: 'CHL',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'China',
@@ -320,6 +365,7 @@ export const countries = [
     alpha3: 'CHN',
     region: 'Asia',
     subRegion: 'Eastern Asia',
+    languages: ['zh'],
   },
   {
     name: 'Christmas Island',
@@ -327,6 +373,7 @@ export const countries = [
     alpha3: 'CXR',
     region: 'Oceania',
     subRegion: 'Australia and New Zealand',
+    languages: ['en'],
   },
   {
     name: 'Cocos (Keeling) Islands',
@@ -334,6 +381,7 @@ export const countries = [
     alpha3: 'CCK',
     region: 'Oceania',
     subRegion: 'Australia and New Zealand',
+    languages: ['en'],
   },
   {
     name: 'Colombia',
@@ -341,6 +389,7 @@ export const countries = [
     alpha3: 'COL',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Comoros',
@@ -348,6 +397,7 @@ export const countries = [
     alpha3: 'COM',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['ar', 'fr'],
   },
   {
     name: 'Congo',
@@ -355,6 +405,7 @@ export const countries = [
     alpha3: 'COG',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'ln'],
   },
   {
     name: 'Congo, Democratic Republic of the',
@@ -362,6 +413,7 @@ export const countries = [
     alpha3: 'COD',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'ln', 'kg', 'sw', 'lu'],
   },
   {
     name: 'Cook Islands',
@@ -369,6 +421,7 @@ export const countries = [
     alpha3: 'COK',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['en'],
   },
   {
     name: 'Costa Rica',
@@ -376,6 +429,7 @@ export const countries = [
     alpha3: 'CRI',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: "Côte d'Ivoire",
@@ -383,6 +437,7 @@ export const countries = [
     alpha3: 'CIV',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Croatia',
@@ -390,6 +445,7 @@ export const countries = [
     alpha3: 'HRV',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['hr'],
   },
   {
     name: 'Cuba',
@@ -397,6 +453,7 @@ export const countries = [
     alpha3: 'CUB',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Curaçao',
@@ -404,6 +461,7 @@ export const countries = [
     alpha3: 'CUW',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['nl', 'pa', 'en'],
   },
   {
     name: 'Cyprus',
@@ -411,6 +469,7 @@ export const countries = [
     alpha3: 'CYP',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['el', 'tr', 'hy'],
   },
   {
     name: 'Czechia',
@@ -418,6 +477,7 @@ export const countries = [
     alpha3: 'CZE',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['cs'],
   },
   {
     name: 'Denmark',
@@ -425,6 +485,7 @@ export const countries = [
     alpha3: 'DNK',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['da'],
   },
   {
     name: 'Djibouti',
@@ -432,6 +493,7 @@ export const countries = [
     alpha3: 'DJI',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'ar'],
   },
   {
     name: 'Dominica',
@@ -439,6 +501,7 @@ export const countries = [
     alpha3: 'DMA',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Dominican Republic',
@@ -446,6 +509,7 @@ export const countries = [
     alpha3: 'DOM',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Ecuador',
@@ -453,6 +517,7 @@ export const countries = [
     alpha3: 'ECU',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Egypt',
@@ -460,6 +525,7 @@ export const countries = [
     alpha3: 'EGY',
     region: 'Africa',
     subRegion: 'Northern Africa',
+    languages: ['ar'],
   },
   {
     name: 'El Salvador',
@@ -467,6 +533,7 @@ export const countries = [
     alpha3: 'SLV',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Equatorial Guinea',
@@ -474,6 +541,7 @@ export const countries = [
     alpha3: 'GNQ',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['es', 'fr'],
   },
   {
     name: 'Eritrea',
@@ -481,6 +549,7 @@ export const countries = [
     alpha3: 'ERI',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['ti', 'ar', 'en'],
   },
   {
     name: 'Estonia',
@@ -488,6 +557,7 @@ export const countries = [
     alpha3: 'EST',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['et'],
   },
   {
     name: 'Eswatini',
@@ -495,6 +565,7 @@ export const countries = [
     alpha3: 'SWZ',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en', 'ss'],
   },
   {
     name: 'Ethiopia',
@@ -502,6 +573,7 @@ export const countries = [
     alpha3: 'ETH',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['am'],
   },
   {
     name: 'Falkland Islands (Malvinas)',
@@ -509,6 +581,7 @@ export const countries = [
     alpha3: 'FLK',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Faroe Islands',
@@ -516,6 +589,7 @@ export const countries = [
     alpha3: 'FRO',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['fo'],
   },
   {
     name: 'Fiji',
@@ -523,6 +597,7 @@ export const countries = [
     alpha3: 'FJI',
     region: 'Oceania',
     subRegion: 'Melanesia',
+    languages: ['en', 'fj', 'hi', 'ur'],
   },
   {
     name: 'Finland',
@@ -530,6 +605,7 @@ export const countries = [
     alpha3: 'FIN',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['fi', 'sv'],
   },
   {
     name: 'France',
@@ -537,6 +613,7 @@ export const countries = [
     alpha3: 'FRA',
     region: 'Europe',
     subRegion: 'Western Europe',
+    languages: ['fr'],
   },
   {
     name: 'French Guiana',
@@ -544,6 +621,7 @@ export const countries = [
     alpha3: 'GUF',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['fr'],
   },
   {
     name: 'French Polynesia',
@@ -551,6 +629,7 @@ export const countries = [
     alpha3: 'PYF',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['fr'],
   },
   {
     name: 'French Southern Territories',
@@ -558,6 +637,7 @@ export const countries = [
     alpha3: 'ATF',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Gabon',
@@ -565,6 +645,7 @@ export const countries = [
     alpha3: 'GAB',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Gambia',
@@ -572,6 +653,7 @@ export const countries = [
     alpha3: 'GMB',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Georgia',
@@ -579,6 +661,7 @@ export const countries = [
     alpha3: 'GEO',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ka'],
   },
   {
     name: 'Germany',
@@ -586,6 +669,7 @@ export const countries = [
     alpha3: 'DEU',
     region: 'Europe',
     subRegion: 'Western Europe',
+    languages: ['de'],
   },
   {
     name: 'Ghana',
@@ -593,6 +677,7 @@ export const countries = [
     alpha3: 'GHA',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Gibraltar',
@@ -600,6 +685,7 @@ export const countries = [
     alpha3: 'GIB',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['en'],
   },
   {
     name: 'Greece',
@@ -607,6 +693,7 @@ export const countries = [
     alpha3: 'GRC',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['el'],
   },
   {
     name: 'Greenland',
@@ -614,6 +701,7 @@ export const countries = [
     alpha3: 'GRL',
     region: 'Americas',
     subRegion: 'Northern America',
+    languages: ['kl'],
   },
   {
     name: 'Grenada',
@@ -621,6 +709,7 @@ export const countries = [
     alpha3: 'GRD',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Guadeloupe',
@@ -628,6 +717,7 @@ export const countries = [
     alpha3: 'GLP',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['fr'],
   },
   {
     name: 'Guam',
@@ -635,6 +725,7 @@ export const countries = [
     alpha3: 'GUM',
     region: 'Oceania',
     subRegion: 'Micronesia',
+    languages: ['en', 'ch', 'es'],
   },
   {
     name: 'Guatemala',
@@ -642,6 +733,7 @@ export const countries = [
     alpha3: 'GTM',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Guernsey',
@@ -649,6 +741,7 @@ export const countries = [
     alpha3: 'GGY',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['en', 'fr'],
   },
   {
     name: 'Guinea',
@@ -656,6 +749,7 @@ export const countries = [
     alpha3: 'GIN',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'ff'],
   },
   {
     name: 'Guinea-Bissau',
@@ -663,6 +757,7 @@ export const countries = [
     alpha3: 'GNB',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['pt'],
   },
   {
     name: 'Guyana',
@@ -670,6 +765,7 @@ export const countries = [
     alpha3: 'GUY',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Haiti',
@@ -677,6 +773,7 @@ export const countries = [
     alpha3: 'HTI',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['fr', 'ht'],
   },
   {
     name: 'Heard Island and McDonald Islands',
@@ -684,6 +781,7 @@ export const countries = [
     alpha3: 'HMD',
     region: 'Oceania',
     subRegion: 'Australia and New Zealand',
+    languages: ['en'],
   },
   {
     name: 'Holy See',
@@ -691,6 +789,7 @@ export const countries = [
     alpha3: 'VAT',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['it', 'la'],
   },
   {
     name: 'Honduras',
@@ -698,6 +797,7 @@ export const countries = [
     alpha3: 'HND',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Hong Kong',
@@ -705,6 +805,7 @@ export const countries = [
     alpha3: 'HKG',
     region: 'Asia',
     subRegion: 'Eastern Asia',
+    languages: ['zh', 'en'],
   },
   {
     name: 'Hungary',
@@ -712,6 +813,7 @@ export const countries = [
     alpha3: 'HUN',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['hu'],
   },
   {
     name: 'Iceland',
@@ -719,6 +821,7 @@ export const countries = [
     alpha3: 'ISL',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['is'],
   },
   {
     name: 'India',
@@ -726,6 +829,7 @@ export const countries = [
     alpha3: 'IND',
     region: 'Asia',
     subRegion: 'Southern Asia',
+    languages: ['hi', 'en'],
   },
   {
     name: 'Indonesia',
@@ -733,6 +837,7 @@ export const countries = [
     alpha3: 'IDN',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['id'],
   },
   {
     name: 'Iran (Islamic Republic of)',
@@ -740,6 +845,7 @@ export const countries = [
     alpha3: 'IRN',
     region: 'Asia',
     subRegion: 'Southern Asia',
+    languages: ['fa'],
   },
   {
     name: 'Iraq',
@@ -747,6 +853,7 @@ export const countries = [
     alpha3: 'IRQ',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar', 'ku'],
   },
   {
     name: 'Ireland',
@@ -754,6 +861,7 @@ export const countries = [
     alpha3: 'IRL',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['ga', 'en'],
   },
   {
     name: 'Isle of Man',
@@ -761,6 +869,7 @@ export const countries = [
     alpha3: 'IMN',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['en', 'gv'],
   },
   {
     name: 'Israel',
@@ -768,6 +877,7 @@ export const countries = [
     alpha3: 'ISR',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['he', 'ar'],
   },
   {
     name: 'Italy',
@@ -775,6 +885,7 @@ export const countries = [
     alpha3: 'ITA',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['it'],
   },
   {
     name: 'Jamaica',
@@ -782,6 +893,7 @@ export const countries = [
     alpha3: 'JAM',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Japan',
@@ -789,6 +901,7 @@ export const countries = [
     alpha3: 'JPN',
     region: 'Asia',
     subRegion: 'Eastern Asia',
+    languages: ['ja'],
   },
   {
     name: 'Jersey',
@@ -796,6 +909,7 @@ export const countries = [
     alpha3: 'JEY',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['en', 'fr'],
   },
   {
     name: 'Jordan',
@@ -803,6 +917,7 @@ export const countries = [
     alpha3: 'JOR',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'Kazakhstan',
@@ -810,6 +925,7 @@ export const countries = [
     alpha3: 'KAZ',
     region: 'Asia',
     subRegion: 'Central Asia',
+    languages: ['kk', 'ru'],
   },
   {
     name: 'Kenya',
@@ -817,6 +933,7 @@ export const countries = [
     alpha3: 'KEN',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en', 'sw'],
   },
   {
     name: 'Kiribati',
@@ -824,6 +941,7 @@ export const countries = [
     alpha3: 'KIR',
     region: 'Oceania',
     subRegion: 'Micronesia',
+    languages: ['en'],
   },
   {
     name: "Korea (Democratic People's Republic of)",
@@ -831,6 +949,7 @@ export const countries = [
     alpha3: 'PRK',
     region: 'Asia',
     subRegion: 'Eastern Asia',
+    languages: ['ko'],
   },
   {
     name: 'Korea, Republic of',
@@ -838,6 +957,7 @@ export const countries = [
     alpha3: 'KOR',
     region: 'Asia',
     subRegion: 'Eastern Asia',
+    languages: ['ko'],
   },
   {
     name: 'Kuwait',
@@ -845,6 +965,7 @@ export const countries = [
     alpha3: 'KWT',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'Kyrgyzstan',
@@ -852,6 +973,7 @@ export const countries = [
     alpha3: 'KGZ',
     region: 'Asia',
     subRegion: 'Central Asia',
+    languages: ['ky', 'ru'],
   },
   {
     name: "Lao People's Democratic Republic",
@@ -859,6 +981,7 @@ export const countries = [
     alpha3: 'LAO',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['lo'],
   },
   {
     name: 'Latvia',
@@ -866,6 +989,7 @@ export const countries = [
     alpha3: 'LVA',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['lv'],
   },
   {
     name: 'Lebanon',
@@ -873,6 +997,7 @@ export const countries = [
     alpha3: 'LBN',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar', 'fr'],
   },
   {
     name: 'Lesotho',
@@ -880,6 +1005,7 @@ export const countries = [
     alpha3: 'LSO',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en', 'st'],
   },
   {
     name: 'Liberia',
@@ -887,6 +1013,7 @@ export const countries = [
     alpha3: 'LBR',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Libya',
@@ -894,6 +1021,7 @@ export const countries = [
     alpha3: 'LBY',
     region: 'Africa',
     subRegion: 'Northern Africa',
+    languages: ['ar'],
   },
   {
     name: 'Liechtenstein',
@@ -901,6 +1029,7 @@ export const countries = [
     alpha3: 'LIE',
     region: 'Europe',
     subRegion: 'Western Europe',
+    languages: ['de'],
   },
   {
     name: 'Lithuania',
@@ -908,6 +1037,7 @@ export const countries = [
     alpha3: 'LTU',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['lt'],
   },
   {
     name: 'Luxembourg',
@@ -915,6 +1045,7 @@ export const countries = [
     alpha3: 'LUX',
     region: 'Europe',
     subRegion: 'Western Europe',
+    languages: ['fr', 'de', 'lb'],
   },
   {
     name: 'Macao',
@@ -922,6 +1053,7 @@ export const countries = [
     alpha3: 'MAC',
     region: 'Asia',
     subRegion: 'Eastern Asia',
+    languages: ['zh', 'pt'],
   },
   {
     name: 'Madagascar',
@@ -929,6 +1061,7 @@ export const countries = [
     alpha3: 'MDG',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'mg'],
   },
   {
     name: 'Malawi',
@@ -936,6 +1069,7 @@ export const countries = [
     alpha3: 'MWI',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en', 'ny'],
   },
   {
     name: 'Malaysia',
@@ -943,6 +1077,7 @@ export const countries = [
     alpha3: 'MYS',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['ms'],
   },
   {
     name: 'Maldives',
@@ -950,6 +1085,7 @@ export const countries = [
     alpha3: 'MDV',
     region: 'Asia',
     subRegion: 'Southern Asia',
+    languages: ['dv'],
   },
   {
     name: 'Mali',
@@ -957,6 +1093,7 @@ export const countries = [
     alpha3: 'MLI',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Malta',
@@ -964,6 +1101,7 @@ export const countries = [
     alpha3: 'MLT',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['mt', 'en'],
   },
   {
     name: 'Marshall Islands',
@@ -971,6 +1109,7 @@ export const countries = [
     alpha3: 'MHL',
     region: 'Oceania',
     subRegion: 'Micronesia',
+    languages: ['en', 'mh'],
   },
   {
     name: 'Martinique',
@@ -978,6 +1117,7 @@ export const countries = [
     alpha3: 'MTQ',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['fr'],
   },
   {
     name: 'Mauritania',
@@ -985,6 +1125,7 @@ export const countries = [
     alpha3: 'MRT',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['ar'],
   },
   {
     name: 'Mauritius',
@@ -992,6 +1133,7 @@ export const countries = [
     alpha3: 'MUS',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Mayotte',
@@ -999,6 +1141,7 @@ export const countries = [
     alpha3: 'MYT',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Mexico',
@@ -1006,6 +1149,7 @@ export const countries = [
     alpha3: 'MEX',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Micronesia (Federated States of)',
@@ -1013,6 +1157,7 @@ export const countries = [
     alpha3: 'FSM',
     region: 'Oceania',
     subRegion: 'Micronesia',
+    languages: ['en'],
   },
   {
     name: 'Moldova, Republic of',
@@ -1020,6 +1165,7 @@ export const countries = [
     alpha3: 'MDA',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['ro'],
   },
   {
     name: 'Monaco',
@@ -1027,6 +1173,7 @@ export const countries = [
     alpha3: 'MCO',
     region: 'Europe',
     subRegion: 'Western Europe',
+    languages: ['fr'],
   },
   {
     name: 'Mongolia',
@@ -1034,6 +1181,7 @@ export const countries = [
     alpha3: 'MNG',
     region: 'Asia',
     subRegion: 'Eastern Asia',
+    languages: ['mn'],
   },
   {
     name: 'Montenegro',
@@ -1041,6 +1189,7 @@ export const countries = [
     alpha3: 'MNE',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['sr', 'bs', 'sq', 'hr'],
   },
   {
     name: 'Montserrat',
@@ -1048,6 +1197,7 @@ export const countries = [
     alpha3: 'MSR',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Morocco',
@@ -1055,6 +1205,7 @@ export const countries = [
     alpha3: 'MAR',
     region: 'Africa',
     subRegion: 'Northern Africa',
+    languages: ['ar'],
   },
   {
     name: 'Mozambique',
@@ -1062,6 +1213,7 @@ export const countries = [
     alpha3: 'MOZ',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['pt'],
   },
   {
     name: 'Myanmar',
@@ -1069,6 +1221,7 @@ export const countries = [
     alpha3: 'MMR',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['my'],
   },
   {
     name: 'Namibia',
@@ -1076,6 +1229,7 @@ export const countries = [
     alpha3: 'NAM',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en', 'af'],
   },
   {
     name: 'Nauru',
@@ -1083,6 +1237,7 @@ export const countries = [
     alpha3: 'NRU',
     region: 'Oceania',
     subRegion: 'Micronesia',
+    languages: ['en', 'na'],
   },
   {
     name: 'Nepal',
@@ -1090,6 +1245,7 @@ export const countries = [
     alpha3: 'NPL',
     region: 'Asia',
     subRegion: 'Southern Asia',
+    languages: ['ne'],
   },
   {
     name: 'Netherlands',
@@ -1097,6 +1253,7 @@ export const countries = [
     alpha3: 'NLD',
     region: 'Europe',
     subRegion: 'Western Europe',
+    languages: ['nl'],
   },
   {
     name: 'New Caledonia',
@@ -1104,6 +1261,7 @@ export const countries = [
     alpha3: 'NCL',
     region: 'Oceania',
     subRegion: 'Melanesia',
+    languages: ['fr'],
   },
   {
     name: 'New Zealand',
@@ -1111,6 +1269,7 @@ export const countries = [
     alpha3: 'NZL',
     region: 'Oceania',
     subRegion: 'Australia and New Zealand',
+    languages: ['en', 'mi'],
   },
   {
     name: 'Nicaragua',
@@ -1118,6 +1277,7 @@ export const countries = [
     alpha3: 'NIC',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Niger',
@@ -1125,6 +1285,7 @@ export const countries = [
     alpha3: 'NER',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Nigeria',
@@ -1132,6 +1293,7 @@ export const countries = [
     alpha3: 'NGA',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Niue',
@@ -1139,6 +1301,7 @@ export const countries = [
     alpha3: 'NIU',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['en'],
   },
   {
     name: 'Norfolk Island',
@@ -1146,6 +1309,7 @@ export const countries = [
     alpha3: 'NFK',
     region: 'Oceania',
     subRegion: 'Australia and New Zealand',
+    languages: ['en'],
   },
   {
     name: 'North Macedonia',
@@ -1153,6 +1317,7 @@ export const countries = [
     alpha3: 'MKD',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['mk'],
   },
   {
     name: 'Northern Mariana Islands',
@@ -1160,6 +1325,7 @@ export const countries = [
     alpha3: 'MNP',
     region: 'Oceania',
     subRegion: 'Micronesia',
+    languages: ['en', 'ch'],
   },
   {
     name: 'Norway',
@@ -1167,6 +1333,7 @@ export const countries = [
     alpha3: 'NOR',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['no', 'nb', 'nn'],
   },
   {
     name: 'Oman',
@@ -1174,6 +1341,7 @@ export const countries = [
     alpha3: 'OMN',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'Pakistan',
@@ -1181,6 +1349,7 @@ export const countries = [
     alpha3: 'PAK',
     region: 'Asia',
     subRegion: 'Southern Asia',
+    languages: ['en', 'ur'],
   },
   {
     name: 'Palau',
@@ -1188,6 +1357,7 @@ export const countries = [
     alpha3: 'PLW',
     region: 'Oceania',
     subRegion: 'Micronesia',
+    languages: ['en'],
   },
   {
     name: 'Palestine, State of',
@@ -1195,6 +1365,7 @@ export const countries = [
     alpha3: 'PSE',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'Panama',
@@ -1202,6 +1373,7 @@ export const countries = [
     alpha3: 'PAN',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Papua New Guinea',
@@ -1209,6 +1381,7 @@ export const countries = [
     alpha3: 'PNG',
     region: 'Oceania',
     subRegion: 'Melanesia',
+    languages: ['en'],
   },
   {
     name: 'Paraguay',
@@ -1216,6 +1389,7 @@ export const countries = [
     alpha3: 'PRY',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es', 'gn'],
   },
   {
     name: 'Peru',
@@ -1223,6 +1397,7 @@ export const countries = [
     alpha3: 'PER',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Philippines',
@@ -1230,6 +1405,7 @@ export const countries = [
     alpha3: 'PHL',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['en'],
   },
   {
     name: 'Pitcairn',
@@ -1237,6 +1413,7 @@ export const countries = [
     alpha3: 'PCN',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['en'],
   },
   {
     name: 'Poland',
@@ -1244,6 +1421,7 @@ export const countries = [
     alpha3: 'POL',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['pl'],
   },
   {
     name: 'Portugal',
@@ -1251,6 +1429,7 @@ export const countries = [
     alpha3: 'PRT',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['pt'],
   },
   {
     name: 'Puerto Rico',
@@ -1258,6 +1437,7 @@ export const countries = [
     alpha3: 'PRI',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es', 'en'],
   },
   {
     name: 'Qatar',
@@ -1265,6 +1445,7 @@ export const countries = [
     alpha3: 'QAT',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'Réunion',
@@ -1272,6 +1453,7 @@ export const countries = [
     alpha3: 'REU',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Romania',
@@ -1279,6 +1461,7 @@ export const countries = [
     alpha3: 'ROU',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['ro'],
   },
   {
     name: 'Russian Federation',
@@ -1286,6 +1469,7 @@ export const countries = [
     alpha3: 'RUS',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['ru'],
   },
   {
     name: 'Rwanda',
@@ -1293,6 +1477,7 @@ export const countries = [
     alpha3: 'RWA',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['rw', 'en', 'fr'],
   },
   {
     name: 'Saint Barthélemy',
@@ -1300,6 +1485,7 @@ export const countries = [
     alpha3: 'BLM',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['fr'],
   },
   {
     name: 'Saint Helena, Ascension and Tristan da Cunha',
@@ -1307,6 +1493,7 @@ export const countries = [
     alpha3: 'SHN',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Saint Kitts and Nevis',
@@ -1314,6 +1501,7 @@ export const countries = [
     alpha3: 'KNA',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Saint Lucia',
@@ -1321,6 +1509,7 @@ export const countries = [
     alpha3: 'LCA',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Saint Martin (French part)',
@@ -1328,6 +1517,7 @@ export const countries = [
     alpha3: 'MAF',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en', 'fr', 'nl'],
   },
   {
     name: 'Saint Pierre and Miquelon',
@@ -1335,6 +1525,7 @@ export const countries = [
     alpha3: 'SPM',
     region: 'Americas',
     subRegion: 'Northern America',
+    languages: ['fr'],
   },
   {
     name: 'Saint Vincent and the Grenadines',
@@ -1342,6 +1533,7 @@ export const countries = [
     alpha3: 'VCT',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Samoa',
@@ -1349,6 +1541,7 @@ export const countries = [
     alpha3: 'WSM',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['sm', 'en'],
   },
   {
     name: 'San Marino',
@@ -1356,6 +1549,7 @@ export const countries = [
     alpha3: 'SMR',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['it'],
   },
   {
     name: 'Sao Tome and Principe',
@@ -1363,6 +1557,7 @@ export const countries = [
     alpha3: 'STP',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['pt'],
   },
   {
     name: 'Saudi Arabia',
@@ -1370,6 +1565,7 @@ export const countries = [
     alpha3: 'SAU',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'Senegal',
@@ -1377,6 +1573,7 @@ export const countries = [
     alpha3: 'SEN',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Serbia',
@@ -1384,6 +1581,7 @@ export const countries = [
     alpha3: 'SRB',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['sr'],
   },
   {
     name: 'Seychelles',
@@ -1391,6 +1589,7 @@ export const countries = [
     alpha3: 'SYC',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr', 'en'],
   },
   {
     name: 'Sierra Leone',
@@ -1398,6 +1597,7 @@ export const countries = [
     alpha3: 'SLE',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Singapore',
@@ -1405,6 +1605,7 @@ export const countries = [
     alpha3: 'SGP',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['en', 'ms', 'ta', 'zh'],
   },
   {
     name: 'Sint Maarten (Dutch part)',
@@ -1412,6 +1613,7 @@ export const countries = [
     alpha3: 'SXM',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['nl', 'en'],
   },
   {
     name: 'Slovakia',
@@ -1419,6 +1621,7 @@ export const countries = [
     alpha3: 'SVK',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['sk'],
   },
   {
     name: 'Slovenia',
@@ -1426,6 +1629,7 @@ export const countries = [
     alpha3: 'SVN',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['sl'],
   },
   {
     name: 'Solomon Islands',
@@ -1433,6 +1637,7 @@ export const countries = [
     alpha3: 'SLB',
     region: 'Oceania',
     subRegion: 'Melanesia',
+    languages: ['en'],
   },
   {
     name: 'Somalia',
@@ -1440,6 +1645,7 @@ export const countries = [
     alpha3: 'SOM',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['so', 'ar'],
   },
   {
     name: 'South Africa',
@@ -1447,6 +1653,7 @@ export const countries = [
     alpha3: 'ZAF',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['af', 'en', 'nr', 'st', 'ss', 'tn', 'ts', 've', 'xh', 'zu'],
   },
   {
     name: 'South Georgia and the South Sandwich Islands',
@@ -1454,6 +1661,7 @@ export const countries = [
     alpha3: 'SGS',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'South Sudan',
@@ -1461,6 +1669,7 @@ export const countries = [
     alpha3: 'SSD',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Spain',
@@ -1468,6 +1677,7 @@ export const countries = [
     alpha3: 'ESP',
     region: 'Europe',
     subRegion: 'Southern Europe',
+    languages: ['es', 'eu', 'ca', 'gl', 'oc'],
   },
   {
     name: 'Sri Lanka',
@@ -1475,6 +1685,7 @@ export const countries = [
     alpha3: 'LKA',
     region: 'Asia',
     subRegion: 'Southern Asia',
+    languages: ['si', 'ta'],
   },
   {
     name: 'Sudan',
@@ -1482,6 +1693,7 @@ export const countries = [
     alpha3: 'SDN',
     region: 'Africa',
     subRegion: 'Northern Africa',
+    languages: ['ar', 'en'],
   },
   {
     name: 'Suriname',
@@ -1489,6 +1701,7 @@ export const countries = [
     alpha3: 'SUR',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['nl'],
   },
   {
     name: 'Svalbard and Jan Mayen',
@@ -1496,6 +1709,7 @@ export const countries = [
     alpha3: 'SJM',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['no'],
   },
   {
     name: 'Sweden',
@@ -1503,6 +1717,7 @@ export const countries = [
     alpha3: 'SWE',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['sv'],
   },
   {
     name: 'Switzerland',
@@ -1510,6 +1725,7 @@ export const countries = [
     alpha3: 'CHE',
     region: 'Europe',
     subRegion: 'Western Europe',
+    languages: ['de', 'fr', 'it'],
   },
   {
     name: 'Syrian Arab Republic',
@@ -1517,6 +1733,7 @@ export const countries = [
     alpha3: 'SYR',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'Taiwan, Province of China',
@@ -1524,6 +1741,7 @@ export const countries = [
     alpha3: 'TWN',
     region: 'Asia',
     subRegion: 'Eastern Asia',
+    languages: ['zh'],
   },
   {
     name: 'Tajikistan',
@@ -1531,6 +1749,7 @@ export const countries = [
     alpha3: 'TJK',
     region: 'Asia',
     subRegion: 'Central Asia',
+    languages: ['tg', 'ru'],
   },
   {
     name: 'Tanzania, United Republic of',
@@ -1538,6 +1757,7 @@ export const countries = [
     alpha3: 'TZA',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['sw', 'en'],
   },
   {
     name: 'Thailand',
@@ -1545,6 +1765,7 @@ export const countries = [
     alpha3: 'THA',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['th'],
   },
   {
     name: 'Timor-Leste',
@@ -1552,6 +1773,7 @@ export const countries = [
     alpha3: 'TLS',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['pt'],
   },
   {
     name: 'Togo',
@@ -1559,6 +1781,7 @@ export const countries = [
     alpha3: 'TGO',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['fr'],
   },
   {
     name: 'Tokelau',
@@ -1566,6 +1789,7 @@ export const countries = [
     alpha3: 'TKL',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['en'],
   },
   {
     name: 'Tonga',
@@ -1573,6 +1797,7 @@ export const countries = [
     alpha3: 'TON',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['en', 'to'],
   },
   {
     name: 'Trinidad and Tobago',
@@ -1580,6 +1805,7 @@ export const countries = [
     alpha3: 'TTO',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Tunisia',
@@ -1587,6 +1813,7 @@ export const countries = [
     alpha3: 'TUN',
     region: 'Africa',
     subRegion: 'Northern Africa',
+    languages: ['ar'],
   },
   {
     name: 'Turkey',
@@ -1594,6 +1821,7 @@ export const countries = [
     alpha3: 'TUR',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['tr'],
   },
   {
     name: 'Turkmenistan',
@@ -1601,6 +1829,7 @@ export const countries = [
     alpha3: 'TKM',
     region: 'Asia',
     subRegion: 'Central Asia',
+    languages: ['tk', 'ru'],
   },
   {
     name: 'Turks and Caicos Islands',
@@ -1608,6 +1837,7 @@ export const countries = [
     alpha3: 'TCA',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Tuvalu',
@@ -1615,6 +1845,7 @@ export const countries = [
     alpha3: 'TUV',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['en'],
   },
   {
     name: 'Uganda',
@@ -1622,6 +1853,7 @@ export const countries = [
     alpha3: 'UGA',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en', 'sw'],
   },
   {
     name: 'Ukraine',
@@ -1629,6 +1861,7 @@ export const countries = [
     alpha3: 'UKR',
     region: 'Europe',
     subRegion: 'Eastern Europe',
+    languages: ['uk'],
   },
   {
     name: 'United Arab Emirates',
@@ -1636,6 +1869,7 @@ export const countries = [
     alpha3: 'ARE',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'United Kingdom of Great Britain and Northern Ireland',
@@ -1643,6 +1877,7 @@ export const countries = [
     alpha3: 'GBR',
     region: 'Europe',
     subRegion: 'Northern Europe',
+    languages: ['en'],
   },
   {
     name: 'United States of America',
@@ -1650,6 +1885,7 @@ export const countries = [
     alpha3: 'USA',
     region: 'Americas',
     subRegion: 'Northern America',
+    languages: ['en'],
   },
   {
     name: 'United States Minor Outlying Islands',
@@ -1657,6 +1893,7 @@ export const countries = [
     alpha3: 'UMI',
     region: 'Oceania',
     subRegion: 'Micronesia',
+    languages: ['en'],
   },
   {
     name: 'Uruguay',
@@ -1664,6 +1901,7 @@ export const countries = [
     alpha3: 'URY',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Uzbekistan',
@@ -1671,6 +1909,7 @@ export const countries = [
     alpha3: 'UZB',
     region: 'Asia',
     subRegion: 'Central Asia',
+    languages: ['uz', 'ru'],
   },
   {
     name: 'Vanuatu',
@@ -1678,6 +1917,7 @@ export const countries = [
     alpha3: 'VUT',
     region: 'Oceania',
     subRegion: 'Melanesia',
+    languages: ['bi', 'en', 'fr'],
   },
   {
     name: 'Venezuela (Bolivarian Republic of)',
@@ -1685,6 +1925,7 @@ export const countries = [
     alpha3: 'VEN',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['es'],
   },
   {
     name: 'Viet Nam',
@@ -1692,6 +1933,7 @@ export const countries = [
     alpha3: 'VNM',
     region: 'Asia',
     subRegion: 'South-eastern Asia',
+    languages: ['vi'],
   },
   {
     name: 'Virgin Islands (British)',
@@ -1699,6 +1941,7 @@ export const countries = [
     alpha3: 'VGB',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Virgin Islands (U.S.)',
@@ -1706,6 +1949,7 @@ export const countries = [
     alpha3: 'VIR',
     region: 'Americas',
     subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
   },
   {
     name: 'Wallis and Futuna',
@@ -1713,6 +1957,7 @@ export const countries = [
     alpha3: 'WLF',
     region: 'Oceania',
     subRegion: 'Polynesia',
+    languages: ['fr'],
   },
   {
     name: 'Western Sahara',
@@ -1720,6 +1965,7 @@ export const countries = [
     alpha3: 'ESH',
     region: 'Africa',
     subRegion: 'Northern Africa',
+    languages: ['es'],
   },
   {
     name: 'Yemen',
@@ -1727,6 +1973,7 @@ export const countries = [
     alpha3: 'YEM',
     region: 'Asia',
     subRegion: 'Western Asia',
+    languages: ['ar'],
   },
   {
     name: 'Zambia',
@@ -1734,6 +1981,7 @@ export const countries = [
     alpha3: 'ZMB',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en'],
   },
   {
     name: 'Zimbabwe',
@@ -1741,5 +1989,6 @@ export const countries = [
     alpha3: 'ZWE',
     region: 'Africa',
     subRegion: 'Sub-Saharan Africa',
+    languages: ['en', 'sn', 'nd'],
   },
 ]
