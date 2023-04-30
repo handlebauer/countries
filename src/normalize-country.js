@@ -1,7 +1,7 @@
 import { eqCaseInsensitive, pipe, prop } from '@hbauer/convenience-functions'
 import { countries } from './data.js'
 
-/** @typedef {keyof countries[number] } CountryCodeType */
+/** @typedef {keyof Omit<countries[number], "languages"> } CountryCodeType */
 
 /**
  * @param {string} rawInput
