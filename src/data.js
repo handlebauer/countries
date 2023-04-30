@@ -952,7 +952,7 @@ export const countries = [
     languages: ['ko'],
   },
   {
-    name: 'Korea, Republic of',
+    name: 'Korea Republic',
     alpha2: 'KR',
     alpha3: 'KOR',
     region: 'Asia',
