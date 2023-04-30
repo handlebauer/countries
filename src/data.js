@@ -1819,6 +1819,14 @@ export const countries = [
     languages: ['en'],
   },
   {
+    name: 'Trinidad',
+    alpha2: 'TT',
+    alpha3: 'TTO',
+    region: 'Americas',
+    subRegion: 'Latin America and the Caribbean',
+    languages: ['en'],
+  },
+  {
     name: 'Tunisia',
     alpha2: 'TN',
     alpha3: 'TUN',
