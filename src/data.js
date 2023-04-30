@@ -219,7 +219,7 @@ export const countries = [
     languages: ['dz'],
   },
   {
-    name: 'Bolivia (Plurinational State of)',
+    name: 'Bolivia',
     alpha2: 'BO',
     alpha3: 'BOL',
     region: 'Americas',
@@ -851,7 +851,7 @@ export const countries = [
     languages: ['id'],
   },
   {
-    name: 'Iran (Islamic Republic of)',
+    name: 'Iran',
     alpha2: 'IR',
     alpha3: 'IRN',
     region: 'Asia',
@@ -1163,7 +1163,7 @@ export const countries = [
     languages: ['es'],
   },
   {
-    name: 'Micronesia (Federated States of)',
+    name: 'Micronesia',
     alpha2: 'FM',
     alpha3: 'FSM',
     region: 'Oceania',
@@ -1171,7 +1171,7 @@ export const countries = [
     languages: ['en'],
   },
   {
-    name: 'Moldova, Republic of',
+    name: 'Moldova',
     alpha2: 'MD',
     alpha3: 'MDA',
     region: 'Europe',
@@ -1371,7 +1371,7 @@ export const countries = [
     languages: ['en'],
   },
   {
-    name: 'Palestine, State of',
+    name: 'Palestine',
     alpha2: 'PS',
     alpha3: 'PSE',
     region: 'Asia',
@@ -1747,7 +1747,7 @@ export const countries = [
     languages: ['ar'],
   },
   {
-    name: 'Taiwan, Province of China',
+    name: 'Taiwan',
     alpha2: 'TW',
     alpha3: 'TWN',
     region: 'Asia',
@@ -1763,7 +1763,7 @@ export const countries = [
     languages: ['tg', 'ru'],
   },
   {
-    name: 'Tanzania, United Republic of',
+    name: 'Tanzania',
     alpha2: 'TZ',
     alpha3: 'TZA',
     region: 'Africa',
@@ -1963,7 +1963,7 @@ export const countries = [
     languages: ['bi', 'en', 'fr'],
   },
   {
-    name: 'Venezuela (Bolivarian Republic of)',
+    name: 'Venezuela',
     alpha2: 'VE',
     alpha3: 'VEN',
     region: 'Americas',
