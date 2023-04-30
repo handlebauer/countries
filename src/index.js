@@ -1872,7 +1872,10 @@ export const countries = [
     languages: ['ar'],
   },
   {
-    name: 'United Kingdom of Great Britain and Northern Ireland',
+    // XXX: Changed the name from `United Kingdom of Great Britain and
+    // Northern Ireland` for interop purposes; the alternative would be
+    // to add an additional prop, `altName`, but this is simpler for now
+    name: 'England',
     alpha2: 'GB',
     alpha3: 'GBR',
     region: 'Europe',
