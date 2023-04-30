@@ -104,6 +104,17 @@ export const countries = [
     languages: ['nl', 'pa'],
   },
   {
+    /**
+     * For interop with a third-party, the ISO 3166 codes are largely made up 🤷‍♂️
+     */
+    name: 'Assyria',
+    alpha2: 'AA',
+    alpha3: 'ASR',
+    region: 'Asia',
+    subRegion: 'Western Asia',
+    languages: ['ar'],
+  },
+  {
     name: 'Australia',
     alpha2: 'AU',
     alpha3: 'AUS',
