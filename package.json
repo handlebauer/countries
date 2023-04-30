@@ -26,6 +26,7 @@
   "scripts": {
     "build": "shx rm -rf ./lib && rollup -c",
     "types": "shx rm -rf ./types && tsc -p jsconfig.json",
+    "prepublishOnly": "npm run buid && npm run types",
     "prepare": "husky install",
     "test": "ava"
   },
