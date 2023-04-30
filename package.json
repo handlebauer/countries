@@ -41,5 +41,8 @@
     "rollup": "^3.21.0",
     "shx": "^0.3.4",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@hbauer/convenience-functions": "^0.30.0"
   }
 }

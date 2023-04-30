@@ -244,6 +244,11 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.39.0.tgz#58b536bcc843f4cd1e02a7e6171da5c040f4d44b"
   integrity sha512-kf9RB0Fg7NZfap83B3QOqOGg9QmD9yBudqQXzzOtn3i4y7ZUXe5ONeW34Gwi+TxhH4mvj72R1Zc300KUMa9Bng==
 
+"@hbauer/convenience-functions@^0.30.0":
+  version "0.30.0"
+  resolved "https://registry.yarnpkg.com/@hbauer/convenience-functions/-/convenience-functions-0.30.0.tgz#433036dedb38d37cf33e341fae4badf528d4c737"
+  integrity sha512-WvcBwtC6CR0y8K6qTT7T5H4FFD+li6XLdqcgTBvxKt/d2Y2MULn0W9TBHmBqw/z9g5fAtPMyg7mJQ5XVB6xaBA==
+
 "@hbauer/eslint-config@^1.5.3":
   version "1.5.3"
   resolved "https://registry.yarnpkg.com/@hbauer/eslint-config/-/eslint-config-1.5.3.tgz#0830e9f12716c9a2dfac70f3eb7d31d7049a83d1"
