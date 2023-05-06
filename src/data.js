@@ -491,6 +491,14 @@ export const countries = [
     languages: ['cs'],
   },
   {
+    name: 'Czech Republic',
+    alpha2: 'CZ',
+    alpha3: 'CZE',
+    region: 'Europe',
+    subRegion: 'Eastern Europe',
+    languages: ['cs'],
+  },
+  {
     name: 'Denmark',
     alpha2: 'DK',
     alpha3: 'DNK',
