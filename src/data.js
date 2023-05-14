@@ -1987,7 +1987,7 @@ export const countries = [
     languages: ['es'],
   },
   {
-    name: 'Viet Nam',
+    name: 'Vietnam',
     alpha2: 'VN',
     alpha3: 'VNM',
     region: 'Asia',
